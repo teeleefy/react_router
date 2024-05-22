@@ -1,0 +1,26 @@
+.NavBar{
+    float:right;
+    background-color: rgba(35, 198, 49, 0.5);
+    width: 400px;
+    height: 350px;
+}
+
+.NavBar-back{
+    margin-bottom: 2rem;
+    width: 25vw;
+}
+
+.NavBar-link {
+    font-size: 3rem;
+    padding: 1rem;
+    display: block;
+    margin-left: 3rem;
+    text-align: center;
+}
+
+.NavBar-backlink {
+    font-size: 2rem;
+    padding: 2rem;
+    
+    text-align: center;
+}
